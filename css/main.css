@@ -1,11 +1,13 @@
+h1{
+	font: white 30px Helvetica, Arial Bold, sans serif;
+	background: black;
+	
+}
+
+
 body{
 	width: 960px;
 	margin: 0 auto;
 	font: 10px Fjalla One, Helvetica, Arial Bold, sans serif;
 }
 
-h1{
-	font: white 30px Helvetica, Arial Bold, sans serif;
-	background: black;
-	
-}
