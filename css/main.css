@@ -8,7 +8,7 @@ body{
 	background-color: black;
 }
 
-h1 {
+h1{
 	color: #00d2ff;
 	font: 35px Bowlby One SC, Arial Bold, sans serif;
 	
@@ -21,4 +21,10 @@ ul{
 	list-style: none
 	padding: 0;
 		
+}
+
+li{
+	width: 100px
+	background: silver;
+
 }
