@@ -7,10 +7,11 @@ header {
 body {
 	width: 960px;
 	margin: 0 auto;
-	font: 10px Fjalla One, Helvetica, Arial Bold, sans serif;
+	font: 10px Helvetica, Arial Bold, sans serif;
 }
 
 h1 {
 	color: white;
+	font: 35px Fjalla One, Arial Bold, sans serif;
 	
 }
