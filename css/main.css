@@ -5,9 +5,10 @@ header {
 
 
 body {
-	width: 960px;
-	margin: 0 auto;
-	font: 10px Helvetica, Arial Bold, sans serif;
+	font-family: Fjalla One, Arial, Arial black, Georgia;
+	font size: 15px 
+	color: 00d2ff
+	background: 000
 }
 
 h1 {
