@@ -1,17 +1,14 @@
-header {
-	width: 960px;
-}
 
 
 body {
 	font-family: Fjalla One, Arial, Arial black, Georgia;
 	font size: 15px 
-	color: 00d2ff
+	color: #00d2ff
 	background: 000
 }
 
 h1 {
-	color: 00d2ff;
+	color: #00d2ff;
 	font: 35px Fjalla One, Arial Bold, sans serif;
 	
 }
