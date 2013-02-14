@@ -12,7 +12,8 @@ h1 {
 }
 
 ul {
-	margin: 0;
+	width: 300px;
+	margin: 0; auto
 	padding 8px; 0; 0; 8px;
 	list-style: none
 }
