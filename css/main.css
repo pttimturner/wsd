@@ -12,7 +12,8 @@ body {
 	line-height: 1.5;
 	width: 960px;
 	margin: 0 auto;
-	background-color: #181512;
+	background-image: url("../images/bg.png");
+	background-repeat: repeat-y repeat-x;
 }
 
 h1 {
@@ -56,10 +57,11 @@ a:hover {
 
 h2 {
 	width: 640px;
-	border: 5px; solid #fff0f0;
 	padding: 5px;
 	font: 30px Bowlby One SC, Arial Bold, sans serif;
 	color: #00d2ff;
+	text-shadow: 0.1em 0.1em 0.05em #333;
+	text-shadow: 0.1em 0.1em 0.2em black;
 	float: right;
 	clear: both;
 }
@@ -94,7 +96,7 @@ h3 {
 	margin: 35px;
 	background: #3a322a;
 	list-style: none;
-	padding: 20px 0px 0px 60px;
+	padding: 20px 0px 0px 90px;
 	
 }
 
@@ -107,35 +109,41 @@ h3 {
 }
 
 
-
-
-
-
-
-
-
-/*
-
-
-
-
-
-
-
-.gallery li {
-	width: 200px;
-	display: inline;
-	list-style: none;
-	float: left;
-	margin: 0 auto;
-	overflow: hidden;
-
+h4 {
+	font: 15px Bowlby One SC, Arial Bold, sans serif;
+	color: #00d2ff;
+	float: right;
+	clear: both;
 }
 
 
-width: 960px;
-	height: 300px;
-	min-height: 175px;
-	float: left;
+.announcement {
+	font: 15px Bowlby One SC, Arial Bold, sans serif;
+	color: #00d2ff;
+	float: right;
+	clear: both;
+
+	
+}
+
+#aside {
+	width:300px;
+	height: 500px;
+	background: #181512 
+	float: right;
+	clear: both;
+
+}
+
+#footer {
+	height: 20px;
+	padding: 20px;	
+	background-color: #ffd400;
+	
+}
+
+.footertext {
+	width: 960px;
 	margin: 0 auto;
-	padding: 25px auto;
+	color: #181512
+}
