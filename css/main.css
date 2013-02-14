@@ -11,21 +11,13 @@ body{
 h1 {
 	color: #00d2ff;
 	font: 35px Bowlby One SC, Arial Bold, sans serif;
-
+	
 }
 
-ul {
+ul{
 	width: 300px;
-	margin: 0; auto
+	margin: 0 auto;
+	background: #666;
 	list-style: none
-}
-
-li {
-	display: inline;
-
-}
-
-
-aside{
-	float: left;
+	padding: 0;
 }
