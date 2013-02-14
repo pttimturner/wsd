@@ -1,9 +1,11 @@
 body {
-	margin: 0; auto
+	color: #00d2ff
 	font-family: Fjalla One, Arial, Arial black, Georgia;
 	font size: 15px 
+	line-height: 1.5;
+	width: 960px;
+	margin: 0; auto
 	color: #00d2ff
-	background: #000000 no-repeat
 }
 
 h1 {
