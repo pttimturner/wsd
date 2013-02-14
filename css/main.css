@@ -8,3 +8,25 @@ body{
 	background-color: black;
 }
 
+h1 {
+	color: #00d2ff;
+	font: 35px Fjalla One, Arial Bold, sans serif;
+
+}
+
+ul {
+	width: 300px;
+	margin: 0; auto
+	padding 8px; 0; 0; 8px;
+	list-style: none
+}
+
+li {
+	display: inline;
+
+}
+
+
+aside{
+	float: left;
+}
