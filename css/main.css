@@ -1,16 +1,14 @@
-h1{
-	font: 30px Helvetica, Arial Bold, sans serif; 
-	text-color: red;
-
-	
-}
 
 
-/*  body{
+body {
 	width: 960px;
 	margin: 0 auto;
 	font: 10px Fjalla One, Helvetica, Arial Bold, sans serif;
 }
 
 
-
+header {
+	width: 960px;
+	background: black;
+	
+}
