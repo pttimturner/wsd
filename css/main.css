@@ -1,4 +1,4 @@
-body{
+body {
 	color: #00d2ff;
 	font-family: Fjalla One, Arial, Arial black, Georgia;
 	font size: 15px 
@@ -8,13 +8,13 @@ body{
 	background-color: black;
 }
 
-h1{
+h1 {
 	color: #00d2ff;
 	font: 35px Bowlby One SC, Arial Bold, sans serif;
 	
 }
 
-ul{
+ul {
 	width: 800px;
 	margin: 0 auto;
 	background: #666;
@@ -23,8 +23,16 @@ ul{
 	overflow: hidden;
 }
 
-li{
+li {
 	width: 200px;
 	background: silver;
 	float: left;
+}
+
+a {
+	text-decoration: none;
+	background: #7f7f7f;
+	display: block;
+	height: 200px;
+	
 }
