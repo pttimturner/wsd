@@ -1,38 +1,63 @@
 body {
-	color: #00d2ff;
+	color: #fff0f0;
 	font-family: Fjalla One, Arial, Arial black, Georgia;
 	font size: 15px 
 	line-height: 1.5;
 	width: 960px;
 	margin: 0 auto;
-	background-color: black;
+	background-color: #181512;
 }
 
 h1 {
-	color: #00d2ff;
+	color: #ffd400;
 	font: 35px Bowlby One SC, Arial Bold, sans serif;
 	
 }
 
 ul {
-	width: 800px;
-	margin: 0 auto;
-	background: #666;
+	width: 960px;
+	margin-bottom: 15px;
+	background: #3a322a;
 	list-style: none;
 	padding: 0;
 	overflow: hidden;
 }
 
 li {
+	font-size: 20px;
 	width: 200px;
-	background: silver;
 	float: left;
 }
 
 a {
 	text-decoration: none;
-	background: #7f7f7f;
+	background: #3a322a;
 	display: block;
-	height: 20px;
-	
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #ffffff;
 }
+
+a:hover {
+	color: #007e99;
+	background: #00d2ff;
+}
+
+
+h2 {
+	width: 640px;
+	border: 5px; solid #fff0f0
+	padding: 5px;
+	font: 20px Bowlby One SC, Arial Bold, sans serif;
+	color: #00d2ff;
+	float: right;
+}
+
+.maincontent{
+	width: 640px;
+	border: 5px; solid #fff0f0
+	padding: 5px;
+	color: #00d2ff;
+	float: right;
+} 
