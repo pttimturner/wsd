@@ -75,9 +75,11 @@ h2 {
 	clear: both;
 }
 
+
 #contentarea {
- 	margin: 15px 15px 15px 15px;
- 	padding-bottom: 45px;
+ 	margin: 25px 15px 15px 15px;
+ 	padding-bottom: 1px;
+ 	padding-top: 5px;
  	background: #ffd400;
 	overflow: hidden;
 }
@@ -85,6 +87,7 @@ h2 {
 .maincontent {
 	width: 600px;
 	padding-right: 48px;
+	padding-bottom: 5px;
 	color: #00d2ff;
 	float: right;
 	clear: both;
