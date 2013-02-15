@@ -36,12 +36,13 @@ ul {
 li {
 	font-size: 20px;
 	width: 200px;
+	padding-left: 25px;
 	float: left;
 }
 
 a {
 	text-decoration: none;
-	background: #3a322a;
+	background: #3a322a 
 	display: block;
 	height: 30px;
 	line-height: 30px;
@@ -49,9 +50,17 @@ a {
 	color: #ffffff;
 }
 
+a:link {
+	color: #00d2ff;
+}
+
+a: visited {
+	color: #00d2ff;
+}
+
 a:hover {
 	color: #007e99;
-	background: #00d2ff;
+	background: #00d2ff; 
 }
 
 
@@ -145,5 +154,43 @@ h4 {
 .footertext {
 	width: 960px;
 	margin: 0 auto;
-	color: #181512
+	color: #181512; opacity: 0.5;
+}
+
+#featuredcontent {
+	padding-top:35px;
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	
+}
+
+#checkoutbutton {
+ 	width: 107px;
+  	height: 20px
+    background-color: #ffd400;
+  	border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	border: 5px solid #ffd400;
+  	padding: 5px;
+  	Float: right;
+}
+
+#checkoutbutton:hover {
+	opacity: 0.6; 
+
+}
+
+a:#checkoutbuttonlink {
+	color: blue; text-decoration:none
+
+}
+
+a:#checkoutbuttonvisited {
+	color: blue; text-decoration:none
+
+}
+	
+a:#checkoutbuttonhover {
+	text-decoration:underline; opacity: 0.6; 
+	
 }
