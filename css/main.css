@@ -54,7 +54,7 @@ a:link {
 	color: #00d2ff;
 }
 
-a: visited {
+a:visited {
 	color: #00d2ff;
 }
 
@@ -87,7 +87,7 @@ h2 {
 .maincontent {
 	width: 600px;
 	padding-right: 48px;
-	padding-bottom: 5px;
+	padding-bottom: 0px;
 	color: #00d2ff;
 	float: right;
 	clear: both;
@@ -161,7 +161,7 @@ h4 {
 }
 
 #featuredcontent {
-	padding-top:35px;
+	padding-top:65px;
 	-moz-column-count: 3;
 	-moz-column-gap: 20px;
 	
